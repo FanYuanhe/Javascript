@@ -1,4 +1,4 @@
-### JavaScript中instanceof运算符深入剖析
+### javaScript中instanceof运算符深入剖析
 在javascript中使用typeof来判断数据类型，对于基本数据类型是没有问题的，但是一旦碰到复杂数据类型（引用数据类型）的时候就会有问题出现。
 当使用typeof判断数据、对象的具体数据类型的时候会出现都返回object的情况。
 instanceof要求开发者需要明确的确认变量为某种特定类型。
