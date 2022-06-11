@@ -1,2 +1,2 @@
-# Javascript
-Javascript相关笔记
+# javascript
+javascript基础知识
